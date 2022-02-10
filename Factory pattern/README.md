@@ -1,4 +1,5 @@
-# The Factory Pattern (the most used design patterns in Java) - creational type
+# The Factory Pattern 
+## (the most used design pattern in Java) - creational type
 
 ## Goal:
 In Factory pattern, we create object without exposing the creation logic to the client and refer to newly created object using a common interface.
@@ -11,4 +12,4 @@ In Factory pattern, we create object without exposing the creation logic to the 
 5) Verify the output.
 
 ## My example:
-I made a buffet factory where you can create some types of food os drinks. This design pattern is also great for producing enemies or just NPCs with the same look for a game.
+I made a buffet factory where you can create some types of foods or drinks. This design pattern is also great for producing enemies or just NPCs with the same look for a game.
