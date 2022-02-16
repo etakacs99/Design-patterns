@@ -10,4 +10,4 @@ It involves one single class, which is responsibe to create an object and makes 
 3) Verify the output.
 	
 ## My example:
-We can agree, that in most games it is necessary, that the player has HP(health) and coins. It's important, that most of the methods in our game can reach and modify those things (the player got hurt, his hp must be decreased). We must be careful and pay attention that there is just one class for game mechanics, because there would be a trouble if multiple objects are storing and managing the player's HP and gold.
+We can agree, that in most games it is necessary, that the player has HP(health) and coins. It's important, that most of the methods in our game can reach and modify those things (the player got hurt, its hp must be decreased). We must be careful and pay attention that there is just one class for game mechanics, because there would be a trouble if multiple objects are storing and managing the player's HP and gold.
