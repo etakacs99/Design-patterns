@@ -13,3 +13,4 @@ In Visitor pattern, we use a visitor class which changes the executing algorithm
 6) Verify the output.
 
 ## My example:
+A family is visiting the animals in the zoo. First they need to request a visit then if the animal accepts the visit can the family visit the specific animal.
